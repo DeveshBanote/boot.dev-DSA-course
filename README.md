@@ -5,3 +5,11 @@ completed the following
 - find minimum
 - what is an algorithm?
 - simple algorithms
+- solved a exponenets problem
+- exponents grow problem
+- non linear growth
+- logarithms
+- factorials
+- exponents
+- exponents decay
+- big O
