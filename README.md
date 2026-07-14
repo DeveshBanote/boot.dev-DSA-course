@@ -38,5 +38,15 @@ completed the following
 - 13: Fixing Quick Sort
 - 14: Why Use Quick Sort?
 - 15: Selection Sort
+# Exponential Time
+- 1: Polynomial vs. Exponential
+- 2: Polynomial Time = P
+- 3: Reduction to P
+- 4: Order K^N – Exponential
+- 5: Big O Categories Review
+- 6: Complexity Quiz – Example 1
+- 7: Complexity Quiz – Example 2
+- 8: Complexity Quiz – Example 3
+- 9: Exponentail Growth Sequences
 
   
