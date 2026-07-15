@@ -48,5 +48,16 @@ completed the following
 - 7: Complexity Quiz – Example 2
 - 8: Complexity Quiz – Example 3
 - 9: Exponentail Growth Sequences
+# Data structures intro
+- 1: Introduction to Data Structures
+- 2: What Are Data Structures?
+- 3: Lists4
+- : Lists Quiz
+# Stacks
+- 1: Stacks
+- 2: Stack Speed
+- 3: Pop and Peek
+- 4: Stack Review
+- 5: Using a Stack
 
   
