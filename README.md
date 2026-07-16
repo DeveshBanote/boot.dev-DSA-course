@@ -59,5 +59,10 @@ completed the following
 - 3: Pop and Peek
 - 4: Stack Review
 - 5: Using a Stack
+# Queue
+- 1: What Is a Queue?
+- 2: Queue Class
+- 3: Queue Speed
+- 4: Matchmaking Queue
 
   
